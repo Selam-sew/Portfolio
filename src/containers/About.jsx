@@ -3,14 +3,14 @@ import check from "../assets/check.png";
 
 const attributes = [
   {
-    content:"In this day and age a website only isn't enough so I will build you not just pixel perfect website but high performance website too.",
+    content:"I've extensive experience with variety of front end technologies and I built different projects to solidify my knowledge.",
   },
   {
     content:
-      "I'm not satisfied until your website delivers measurable outcomes for your business.",
+      "I focus on user experience by implementing intuitive navigation, fast load times, and visually appealing interfaces, ensuring users have a seamless and enjoyable interaction with the website.",
   },
   {
-    content:"   I prioritize understanding your goals and tailoring solutions that exceed expectations.",
+    content:" I have a proven track record of creating responsive websites that provide an optimal viewing experience across various devices, from desktops to mobile phones.",
   },
 ];
 const About = () => {
